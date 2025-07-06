@@ -1,0 +1,28 @@
+﻿{
+  "ParcelRules": [
+    {
+      "Type": "Small",
+      "MaxLength": 200,
+      "MaxBreadth": 300,
+      "MaxHeight": 150,
+      "MaxWeight": 25,
+      "Cost": 5.00
+    },
+    {
+      "Type": "Medium",
+      "MaxLength": 300,
+      "MaxBreadth": 400,
+      "MaxHeight": 200,
+      "MaxWeight": 25,
+      "Cost": 7.50
+    },
+    {
+      "Type": "Large",
+      "MaxLength": 400,
+      "MaxBreadth": 600,
+      "MaxHeight": 250,
+      "MaxWeight": 25,
+      "Cost": 8.50
+    }
+  ]
+}

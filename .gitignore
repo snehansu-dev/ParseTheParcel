@@ -1,0 +1,45 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS and Rider IDE folders
+.vs/
+.idea/
+.vscode/
+
+# JetBrains Rider files
+*.sln.iml
+_ReSharper*/
+*.[Rr]e[Ss]harper*
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.cache
+*.dbmdl
+
+# NuGet
+*.nupkg
+project.lock.json
+project.assets.json
+project.nuget.cache
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Other system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
